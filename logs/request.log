@@ -1,0 +1,56 @@
+2023-07-08 07:12:18| da75ea8b-343f-417d-a377-1c598990862c | INFO | GET | /
+2023-07-08 07:12:18| ec438cae-ed34-4336-817e-5f43e264aece | INFO | GET | /css/style.css
+2023-07-08 07:12:25| 75bcbb5c-6957-43d2-a644-307d176e2387 | INFO | GET | /
+2023-07-08 07:12:25| 58e591b3-201e-492a-87d5-59d6a5f7cb6c | INFO | GET | /css/style.css
+2023-07-08 07:12:29| dc74776c-4b8f-4144-bbad-506454621fb2 | INFO | GET | /yhuytu
+2023-07-08 07:12:29| e1c1d9de-de87-45ac-bc0e-ca0d2dbe6fd3 | INFO | GET | /css/styles.css
+2023-07-10 11:57:16| 5f2e066b-8ca0-419e-b881-254f27372749 | INFO | GET | /
+2023-07-10 11:57:18| 572a81cc-e627-4d27-8a66-530a3c02110e | INFO | GET | /
+2023-07-10 11:58:28| 71c2a85b-0ced-4043-ac80-bd56bdad3b20 | INFO | GET | /
+2023-07-10 11:58:29| 5e0bc4da-4b00-44a2-9554-9156d5edc6e5 | INFO | GET | /
+2023-07-10 11:58:30| f3581e92-ca1b-4e91-9736-76d29c238239 | INFO | GET | /
+2023-07-10 12:02:33| dce17864-2d83-4eb7-af85-e798e5278dc6 | INFO | GET | /
+2023-07-10 12:02:33| 7e6ea3f5-deaa-41cf-8417-d127a9652976 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:02:33| 93b304ae-44c6-4e57-91b1-57deed729773 | INFO | GET | /favicon.ico
+2023-07-10 12:02:33| ba036cb8-b623-4fc5-8406-7078a2607f7a | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:03:28| 6adf9405-5987-4925-be6f-fdeb89ee8a16 | INFO | GET | /
+2023-07-10 12:03:28| 121c51b1-c7c0-4468-be83-509fe0849afa | ERROR | cors.indexOf is not a function
+2023-07-10 12:03:28| 38c024f6-d1c8-4dc3-848a-c6d9ff5e2bcc | INFO | GET | /favicon.ico
+2023-07-10 12:03:28| 8df1d22d-f0bb-4128-915b-34a163f99b8e | ERROR | cors.indexOf is not a function
+2023-07-10 12:03:29| 3408690b-ecf9-4251-874d-aeeb2c53c66c | INFO | GET | /
+2023-07-10 12:03:29| 7c904478-3100-4539-8dd5-7f2b03a63d69 | ERROR | cors.indexOf is not a function
+2023-07-10 12:03:29| ef17084b-6db3-47bd-849a-f20b1d642439 | INFO | GET | /favicon.ico
+2023-07-10 12:03:29| 0814281b-9cdb-4b5a-aa16-045733d75f91 | ERROR | cors.indexOf is not a function
+2023-07-10 12:06:45| c9ecbb49-199d-4b4c-b32d-fa6132133653 | INFO | GET | /
+2023-07-10 12:06:45| 6adb3de4-9486-4036-81a7-4088166c0bcd | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:06:45| 8fa8699c-f1ee-4a85-8879-883408232843 | INFO | GET | /favicon.ico
+2023-07-10 12:06:45| 22523863-1c4d-43d8-9bf7-76ee37eec54b | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:06:46| e69769ac-fd56-4ce7-8828-ad3959495285 | INFO | GET | /
+2023-07-10 12:06:46| 76e6b145-a2dc-40d7-8842-f55d10d3c258 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:06:46| 48a7acbc-e54e-4f15-9c2d-f60aee4e141e | INFO | GET | /favicon.ico
+2023-07-10 12:06:46| f277c1c9-fa37-404a-922b-3e1a32957063 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:06:46| 91c07580-bac8-499e-a6e9-414f715abfaa | INFO | GET | /
+2023-07-10 12:06:46| 3b2c05a1-1c70-47be-8a92-82491e867fe4 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:06:46| d6c56b93-b45a-484e-a2db-1d747d493bc4 | INFO | GET | /favicon.ico
+2023-07-10 12:06:46| 7ccd0f7f-8f19-49a8-9cde-32289cf25b49 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:10:30| 4e74fbaa-673e-4283-8061-f51ddc1009b0 | INFO | GET | /
+2023-07-10 12:10:30| 9cc7455e-645f-483e-8e23-b53bd817a0d0 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:10:30| 554866bb-f11f-4227-a2d7-1d0d8a5c3226 | INFO | GET | /favicon.ico
+2023-07-10 12:10:30| 0ce19dfb-b6a6-46f5-97ef-eb9af09465a2 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:10:32| 39e51ad9-de06-47bf-b88b-5e09ed444f70 | INFO | GET | /
+2023-07-10 12:10:32| 393fb365-596c-47e3-ab15-0abdf88ee1f2 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:10:32| 9bb80718-d51c-4734-b4cc-09e1971a3709 | INFO | GET | /favicon.ico
+2023-07-10 12:10:32| 03de9f2d-3d25-4c4e-a613-4a597e0cdba4 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:10:32| e2c9541c-9636-4c1a-892f-7658c7467ad0 | INFO | GET | /
+2023-07-10 12:10:32| edbbaa4f-2995-4fcf-8fa2-21c057c3086d | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:10:32| ea9b0ce5-b9c4-4c99-8dc7-d96cd5125a5b | INFO | GET | /favicon.ico
+2023-07-10 12:10:32| 8593e1c3-d818-426d-bbc9-f97b2d7f11d0 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:14:32| 8e99974e-5133-4e11-9f63-933097cb4272 | INFO | GET | /
+2023-07-10 12:14:32| 007245a0-e7d0-4854-997e-de39bce23442 | INFO | GET | /css/style.css
+2023-07-10 12:14:32| 2f60047a-74eb-436f-8c54-c26bf130b58c | INFO | GET | /favicon.ico
+2023-07-10 12:14:55| fc2064eb-74fb-4a1c-be19-7f7f77b68f34 | INFO | GET | /
+2023-07-10 12:14:55| a8f0b42b-9fb1-4267-b500-10f1608b70e0 | ERROR | corsConfig.indexOf is not a function
+2023-07-10 12:21:53| fd056438-4198-4308-9419-fa9398bd0870 | INFO | GET | /
+2023-07-10 12:21:53| 6344e101-409d-478a-9424-a874267959bd | INFO | GET | /css/style.css
+2023-07-10 12:22:46| 02ca571f-1670-43bb-b298-c39f46279bac | INFO | GET | /
+2023-07-10 12:22:46| 667bf6ac-8641-4332-a8b8-3237686164f0 | INFO | GET | /css/style.css
